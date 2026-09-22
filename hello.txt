@@ -1,1 +1,5 @@
 Cloud Support Engineer
+AWS
+Linux
+Networking
+Troubleshooting
