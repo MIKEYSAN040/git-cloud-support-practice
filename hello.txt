@@ -11,5 +11,9 @@ Git Branching2
 >>>>>>> feature-test
 Cloud Monitoring
 Remote change for fetch practice
+<<<<<<< HEAD
 Local change for Git practice
 Local conflicting change
+=======
+GitHub conflicting change
+>>>>>>> b2353a64aeee61497f850685abb9d22bf9d47f02
