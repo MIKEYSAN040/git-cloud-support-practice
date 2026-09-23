@@ -6,3 +6,4 @@ Troubleshooting
 Git conflict resolved successfully
 
 Feature branch change
+Change made directly on GitHub
